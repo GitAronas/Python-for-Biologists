@@ -1,2 +1,2 @@
 # Python-for-Biologists
-Solutions to Python for Biologists exercises
+Solutions to [Python for Biologists](https://www.pythonforbiologists.org/) exercises
